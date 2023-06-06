@@ -54,5 +54,16 @@
             "linke": "https://www.linkedin.com/in/lucas-santos-cunha/",
             "git": "https://github.com/lscunha"
         }
+    },
+    {
+        "name": "Robson De Oliveira",
+        "image": "https://cdn.discordapp.com/attachments/1026523027317477416/1115765675751903272/IMG_0027.jpg",
+        "texto": "Eu tenho a sensação de que estou me conectando para trabalhar para aprender todos os dias. E eu não me considero um especialista mesmo em minha própria função. Eu me considero um estudante. E essa é uma das razões pelas quais eu estou interessado em produzir uma cultura de aprendizado em meu time, porque ninguém é infálivel.",
+
+        "medias":{
+            "crv": "",
+            "linke": "https://www.linkedin.com/in/robson-de-oliveira-neto-258a55209/",
+            "git": ""
+        }
     }
 ]
